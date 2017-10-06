@@ -31,6 +31,3 @@ In decoding Mode, the program will read cesa.txt to get the secret code and star
 
 ### Step 3.1 
 Print the clear code on screen but don't output it to cesa.txt
-
-### Step 4. 
-Run Sample, it just read the file called sample.txt and do Step 3. and Step 3.1
