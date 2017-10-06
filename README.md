@@ -24,7 +24,7 @@ Secret Code: WXYZ...STUV
 ```
 
 ### Step 2.2
-if you finish Step 2.1, clear code and secret code like Step 2.1 example will be printed on scrren and output (don't append) to a file named cesa.txt
+if you finish Step 2.1, clear code and secret code like Step 2.1 example will be printed on scrren and output (don't append) to a file named cesa.txt without clear code.
 
 ### Step 3. 
 In decoding Mode, the program will read cesa.txt to get the secret code and stars and shift secret code the number of stars to rebuild clear code.
