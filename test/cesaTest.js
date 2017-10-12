@@ -6,7 +6,7 @@ describe('cesa', function () {
     
     describe('凱薩編碼測試', function () {
         it('cesa.encoding(My name is Joe)', function () {
-            expect(cesa.encoding('My name is Joe')).to.equal('Rd sfrk nx otk')
+            expect(cesa.encoding('My name is Joe')).to.equal('Rd sfrj nx Otj')
         })  
     })
 })
@@ -15,8 +15,8 @@ describe('cesa', function () {
     var cesa = require('../lib/cesa')
    
     describe('凱薩編碼測試', function () {
-        it('cesa.decoding(Rd sfrk nx otk', function () {
-            expect(cesa.decoding('Rd sfrk nx otk')).to.equal('My name is Joe')
+        it('cesa.decoding(Rd sfrj nx Otj)', function () {
+            expect(cesa.decoding('Rd sfrj nx Otj')).to.equal('My name is Joe')
          })     
     })
 })
