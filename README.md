@@ -1,7 +1,7 @@
+[![Build Status](https://travis-ci.org/joe5343281/Caesar-cipher.svg?branch=master)](https://travis-ci.org/joe5343281/Caesar-cipher)
+
 README
 ---
-
-[![Build Status](https://travis-ci.org/joe5343281/Caesar-cipher.svg?branch=master)](https://travis-ci.org/joe5343281/Caesar-cipher)
 
 This module written by javascript is divided into three parts, encoding, decoding and selftesting(mocha).
 
