@@ -15,5 +15,9 @@
     "type": "git",
     "url": "https://github.com/joe5343281/Caesar-cipher.git"
   },
+  "author":{
+    "name": "Jiun-You Tzeng",
+    "email": "ccckmit@gmail.com"
+  },
   "license": "MIT"
 }
