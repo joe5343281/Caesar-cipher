@@ -1,4 +1,9 @@
-[![Build Status](https://travis-ci.org/joe5343281/Caesar-cipher.svg?branch=master)](https://travis-ci.org/joe5343281/Caesar-cipher)
+<p> 
+  <a href="https://github.com/joe5343281/Caesar-cipher">
+  <img src="https://travis-ci.org/joe5343281/Caesar-cipher.svg?branch=master" alt="Travis"></a>
+  <a href="https://shields.io/">
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Travis"></a>
+</p>
 
 README
 ---
