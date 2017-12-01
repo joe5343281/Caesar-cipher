@@ -1,5 +1,5 @@
 {
-  "name": "Caesar-cipher",
+  "name": "caesarcipher",
   "version": "0.1.0",
   "description": "Simple Caesar encoding & decoding",
   "main": "lib/model.js",
